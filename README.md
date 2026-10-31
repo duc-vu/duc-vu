@@ -2,7 +2,7 @@
 
 <img width="100%" alt="Duc Vu · AI Engineer" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,48:26364B,100:16A6A0&height=190&section=header&text=Duc%20Vu&fontColor=F8FAFC&fontSize=54&fontAlignY=39&animation=fadeIn&desc=AI%20Engineering%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning&descSize=17&descAlignY=64&descColor=E2E8F0" />
 
-<a href="https://github.com/duc-vu"><img alt="Typing introduction" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=850&color=6EE7D9&center=true&vCenter=true&width=760&lines=AI+Engineering+Student+%40+FPT+University;Python+%7C+Computer+Vision+%7C+Deep+Learning;Building+AI+systems+beyond+the+notebook;Exploring+GPU+Computing+%26+Visual+AI" /></a>
+<a href="https://github.com/duc-vu"><img alt="Typing introduction" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=850&color=6EE7D9&center=true&vCenter=true&width=760&lines=AI+Engineering+Student+%40+AI+Engineering;Python+%7C+Computer+Vision+%7C+Deep+Learning;Building+AI+systems+beyond+the+notebook;Exploring+GPU+Computing+%26+Visual+AI" /></a>
 
 <p>
   <a href="https://github.com/duc-vu?tab=repositories"><img alt="GitHub repositories" src="https://img.shields.io/badge/Projects-Explore-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=273449" /></a>
@@ -13,7 +13,7 @@
 
 ## About me
 
-I'm an **Artificial Intelligence student at FPT University** focused on making AI useful in real systems. I enjoy building reproducible computer-vision pipelines, evaluating models beyond headline accuracy, and connecting perception to practical applications.
+I'm an **Artificial Intelligence student focused on** focused on making AI useful in real systems. I enjoy building reproducible computer-vision pipelines, evaluating models beyond headline accuracy, and connecting perception to practical applications.
 
 - **Main focus:** Computer Vision, Deep Learning, Python
 - **Engineering experience:** model evaluation, backend APIs, data pipelines, and cloud integration
