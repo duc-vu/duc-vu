@@ -84,8 +84,6 @@ These are areas of exploration; not all have public repositories or production d
 
 **Interested in computer vision, practical AI, and intelligent systems.**
 
-<sub>Inspired by <a href="https://github.com/zyh3699/awesome-github-readme-profile">awesome-github-readme-profile</a> · Designed around actual projects and ongoing learning.</sub>
-
 <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,48:26364B,100:16A6A0&height=85&section=footer" />
 
 </div>
