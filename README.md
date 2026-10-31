@@ -1,45 +1,93 @@
-# Duc Vu
+<div align="center">
 
-**AI Engineering Student** · Python · Computer Vision · Robotics
+<img width="100%" alt="Duc Vu · AI Engineer" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,48:26364B,100:16A6A0&height=190&section=header&text=Duc%20Vu&fontColor=F8FAFC&fontSize=54&fontAlignY=39&animation=fadeIn&desc=AI%20Engineering%20%7C%20Computer%20Vision%20%7C%20Robotics&descSize=17&descAlignY=64&descColor=E2E8F0" />
 
-> Building AI systems that connect software with the physical world.
+<a href="https://github.com/duc-vu"><img alt="Typing introduction" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=850&color=6EE7D9&center=true&vCenter=true&width=760&lines=AI+Engineering+Student+%40+FPT+University;Python+%7C+Computer+Vision+%7C+Deep+Learning;Building+AI+systems+beyond+the+notebook;Exploring+Robotics+%26+GPU+Computing" /></a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-duc--vu-0d1117?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/duc-vu)
+<p>
+  <a href="https://github.com/duc-vu?tab=repositories"><img alt="GitHub repositories" src="https://img.shields.io/badge/Projects-Explore-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=273449" /></a>
+  <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=duc-vu&style=for-the-badge&color=16A6A0&label=Profile+views" />
+</p>
 
-### About
+</div>
 
-I'm an Artificial Intelligence student interested in turning models and algorithms into working systems. My main interests are **computer vision**, **robotics**, and the engineering needed to make AI useful outside a notebook.
+## About me
 
-- **Core language:** Python
-- **Interested in:** visual perception, object tracking, sensor fusion, and autonomous systems
-- **Currently exploring:** deeper computer vision workflows, robotics, and GPU computing
+I'm an **Artificial Intelligence student at FPT University** focused on making AI useful in real systems. I enjoy building reproducible computer-vision pipelines, evaluating models beyond headline accuracy, and connecting perception to practical applications.
 
-### Selected work
+- **Main focus:** Computer Vision, Deep Learning, Python
+- **Engineering experience:** model evaluation, backend APIs, data pipelines, and cloud integration
+- **Currently exploring:** robotics, sensor fusion, AIoT, and GPU-accelerated computing
+- **Approach:** understand the fundamentals, prototype, measure, and improve
 
-**SafeDrive Agent** · *Hackathon concept / prototype*
+## Tech stack
 
-A dashcam-based driver-assistance concept focused on lane and vehicle perception, temporal tracking, and estimating headway and time-to-collision.
+<div align="center">
 
-`Computer Vision` `Object Tracking` `Road Safety`
+**AI, Machine Learning & Computer Vision**
 
-**AquaHaul Mini** · *In progress*
+<img alt="Python, PyTorch, TensorFlow, OpenCV, scikit-learn" src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn&theme=dark&perline=8" />
 
-A small mobile-robot project exploring localization and navigation with wheel encoders, IMU, 2D LiDAR, AprilTags, and UWB positioning.
+`Ultralytics / YOLO` · `MediaPipe` · `Anomalib` · `NumPy` · `pandas` · `SciPy` · `Jupyter`
 
-`Robotics` `Sensor Fusion` `Localization`
+**Software, Backend & Tools**
 
-### Tools & technologies
+<img alt="C#, .NET, JavaScript, React, Git, GitHub, Docker, Linux, AWS, VS Code" src="https://skillicons.dev/icons?i=cs,dotnet,js,react,git,github,docker,linux,aws,vscode&theme=dark&perline=10" />
 
-**Programming:** Python · C# · SQL
+`REST APIs` · `SQL` · `uv` · `GitHub Actions`
 
-**AI / Data:** NumPy · scikit-learn · Computer Vision
+</div>
 
-**Engineering:** Git · Linux · Docker · AWS
+> My core focus is Python and computer vision. Other tools reflect supporting coursework, experiments, and software engineering work, not equal proficiency in every technology.
 
-### What I'm working toward
+## Featured projects
 
-I want to build reliable perception systems and practical AI applications, with a long-term interest in **robotics**, **AIoT**, and **GPU-accelerated computing**.
+| Project | What I built / explored | Focus |
+| :--- | :--- | :--- |
+| **[AnomaVision](https://github.com/duc-vu/anoma-vision)** | Industrial visual anomaly detection and defect localization, benchmarking PatchCore, EfficientAD and Dinomaly on VisA. | `PyTorch` `Anomalib` `Computer Vision` |
+| **[AIrPPG](https://github.com/duc-vu/lightweight-rppg)** | Contactless heart-rate estimation from facial RGB video with forehead/cheek ROI extraction, classical rPPG baselines and multi-ROI fusion. | `OpenCV` `MediaPipe` `Signal Processing` |
+| **[Violence Detection System](https://github.com/duc-vu/violence-detection-system)** | Video-analysis project using Ultralytics, OpenCV and tracking-related tooling. | `YOLO` `OpenCV` `Tracking` |
+| **[Breast Cancer Classification](https://github.com/duc-vu/AI1902_G10_DAP391m_FinalReport)** | Reproducible WDBC experiments comparing logistic regression and SVM with cross-validation and classification metrics. | `scikit-learn` `ML Evaluation` |
+
+<details>
+<summary><b>Other interests & ongoing explorations</b></summary>
+
+- **AquaHaul Mini:** a small mobile-robot concept exploring wheel encoders, IMU, LiDAR, AprilTags and UWB for localization.
+- **SafeDrive Agent:** a dashcam-based driving-assistance hackathon concept focused on road perception and safety-related estimation.
+- **Backend & cloud:** C#/.NET APIs, Docker, and AWS integration.
+
+These are areas of exploration; not all have public repositories or production deployments.
+
+</details>
+
+## GitHub activity
+
+<div align="center">
+  <img alt="GitHub contribution summary" width="97%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duc-vu&theme=github_dark" />
+  <img alt="GitHub stats" width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=duc-vu&theme=github_dark" />
+  <img alt="Repository language breakdown" width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=duc-vu&theme=github_dark" />
+</div>
+
+<!-- The following assets are generated by workflows in this repository.
+     They appear after the first successful GitHub Actions runs. -->
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duc-vu/duc-vu/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/duc-vu/duc-vu/output/github-contribution-grid-snake.svg" />
+    <img width="97%" alt="Contribution snake animation" src="https://raw.githubusercontent.com/duc-vu/duc-vu/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+  <img width="97%" alt="3D contribution graph" src="https://raw.githubusercontent.com/duc-vu/duc-vu/main/profile-3d-contrib/profile-night-rainbow.svg" />
+</div>
 
 ---
 
-**Explore my work:** [github.com/duc-vu](https://github.com/duc-vu)
+<div align="center">
+
+**Interested in computer vision, practical AI, and intelligent systems.**
+
+<sub>Inspired by <a href="https://github.com/zyh3699/awesome-github-readme-profile">awesome-github-readme-profile</a> · Designed around actual projects and ongoing learning.</sub>
+
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,48:26364B,100:16A6A0&height=85&section=footer" />
+
+</div>
