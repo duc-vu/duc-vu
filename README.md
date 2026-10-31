@@ -46,7 +46,6 @@ I'm an **Artificial Intelligence student** focused on making AI useful in real s
 | :--- | :--- | :--- |
 | **[AnomaVision](https://github.com/duc-vu/anoma-vision)** | Industrial visual anomaly detection and defect localization, benchmarking PatchCore, EfficientAD and Dinomaly on VisA. | `PyTorch` `Anomalib` `Computer Vision` |
 | **[AIrPPG](https://github.com/duc-vu/lightweight-rppg)** | Contactless heart-rate estimation from facial RGB video with forehead/cheek ROI extraction, classical rPPG baselines and multi-ROI fusion. | `OpenCV` `MediaPipe` `Signal Processing` |
-| **[Violence Detection System](https://github.com/duc-vu/violence-detection-system)** | Video-analysis project using Ultralytics, OpenCV and tracking-related tooling. | `YOLO` `OpenCV` `Tracking` |
 | **[Breast Cancer Classification](https://github.com/duc-vu/AI1902_G10_DAP391m_FinalReport)** | Reproducible WDBC experiments comparing logistic regression and SVM with cross-validation and classification metrics. | `scikit-learn` `ML Evaluation` |
 
 <details>
