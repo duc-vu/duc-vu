@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" alt="Duc Vu · AI Engineer" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,48:26364B,100:16A6A0&height=190&section=header&text=Duc%20Vu&fontColor=F8FAFC&fontSize=54&fontAlignY=39&animation=fadeIn&desc=AI%20Engineering%20%7C%20Computer%20Vision%20%7C%20Robotics&descSize=17&descAlignY=64&descColor=E2E8F0" />
+<img width="100%" alt="Duc Vu · AI Engineer" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,48:26364B,100:16A6A0&height=190&section=header&text=Duc%20Vu&fontColor=F8FAFC&fontSize=54&fontAlignY=39&animation=fadeIn&desc=AI%20Engineering%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning&descSize=17&descAlignY=64&descColor=E2E8F0" />
 
-<a href="https://github.com/duc-vu"><img alt="Typing introduction" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=850&color=6EE7D9&center=true&vCenter=true&width=760&lines=AI+Engineering+Student+%40+FPT+University;Python+%7C+Computer+Vision+%7C+Deep+Learning;Building+AI+systems+beyond+the+notebook;Exploring+Robotics+%26+GPU+Computing" /></a>
+<a href="https://github.com/duc-vu"><img alt="Typing introduction" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=850&color=6EE7D9&center=true&vCenter=true&width=760&lines=AI+Engineering+Student+%40+FPT+University;Python+%7C+Computer+Vision+%7C+Deep+Learning;Building+AI+systems+beyond+the+notebook;Exploring+GPU+Computing+%26+Visual+AI" /></a>
 
 <p>
   <a href="https://github.com/duc-vu?tab=repositories"><img alt="GitHub repositories" src="https://img.shields.io/badge/Projects-Explore-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=273449" /></a>
@@ -17,7 +17,7 @@ I'm an **Artificial Intelligence student at FPT University** focused on making A
 
 - **Main focus:** Computer Vision, Deep Learning, Python
 - **Engineering experience:** model evaluation, backend APIs, data pipelines, and cloud integration
-- **Currently exploring:** robotics, sensor fusion, AIoT, and GPU-accelerated computing
+- **Currently exploring:** visual perception, efficient model inference, and GPU-accelerated computing
 - **Approach:** understand the fundamentals, prototype, measure, and improve
 
 ## Tech stack
@@ -32,7 +32,7 @@ I'm an **Artificial Intelligence student at FPT University** focused on making A
 
 **Software, Backend & Tools**
 
-<img alt="C#, .NET, JavaScript, React, Git, GitHub, Docker, Linux, AWS, VS Code" src="https://skillicons.dev/icons?i=cs,dotnet,js,react,git,github,docker,linux,aws,vscode&theme=dark&perline=10" />
+<img alt="C#, .NET, Git, GitHub, Docker, Linux, AWS, VS Code" src="https://skillicons.dev/icons?i=cs,dotnet,git,github,docker,linux,aws,vscode&theme=dark&perline=8" />
 
 `REST APIs` · `SQL` · `uv` · `GitHub Actions`
 
@@ -52,7 +52,6 @@ I'm an **Artificial Intelligence student at FPT University** focused on making A
 <details>
 <summary><b>Other interests & ongoing explorations</b></summary>
 
-- **AquaHaul Mini:** a small mobile-robot concept exploring wheel encoders, IMU, LiDAR, AprilTags and UWB for localization.
 - **SafeDrive Agent:** a dashcam-based driving-assistance hackathon concept focused on road perception and safety-related estimation.
 - **Backend & cloud:** C#/.NET APIs, Docker, and AWS integration.
 
