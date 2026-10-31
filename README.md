@@ -52,7 +52,6 @@ I'm an **Artificial Intelligence student** focused on making AI useful in real s
 <details>
 <summary><b>Other interests & ongoing explorations</b></summary>
 
-- **SafeDrive Agent:** a dashcam-based driving-assistance hackathon concept focused on road perception and safety-related estimation.
 - **Backend & cloud:** C#/.NET APIs, Docker, and AWS integration.
 
 These are areas of exploration; not all have public repositories or production deployments.
